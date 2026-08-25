@@ -1,0 +1,7 @@
+- [x] Name the project "Simple Todo"
+- [x] Create a clean todo list page
+- [x] Add tasks, mark them done, and delete them
+- [x] Save tasks in the browser between visits
+- [x] Check the app files are ready
+- [x] Ask before putting it online
+- [ ] Put it online
