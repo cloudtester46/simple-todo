@@ -3,4 +3,4 @@
 - [x] Change the background to red
 - [x] Check the changed files
 - [x] Ask before going live
-- [ ] Put it online
+- [x] Put it online
