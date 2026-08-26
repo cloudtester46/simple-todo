@@ -1,7 +1,6 @@
-- [x] Name the project "Simple Todo"
-- [x] Create a clean todo list page
-- [x] Add tasks, mark them done, and delete them
-- [x] Save tasks in the browser between visits
-- [x] Check the app files are ready
-- [x] Ask before putting it online
+- [x] Name the project "Red Todo"
+- [x] Find the page style
+- [x] Change the background to red
+- [x] Check the changed files
+- [x] Ask before going live
 - [ ] Put it online
